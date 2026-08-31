@@ -1,6 +1,6 @@
 ---
 title: "West Coast Green Conference in San Jose Sep 25-27 - NEXT WEEK"
-date: 2008-09-18
+pubDatetime: 2008-09-18
 original_url: https://gorunamountain.blogspot.com/2008/09/west-coast-green-conference-in-san-jose.html
 source: GoRunaMountain Blogspot
 images: 0

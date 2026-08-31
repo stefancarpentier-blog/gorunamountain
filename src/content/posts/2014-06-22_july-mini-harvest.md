@@ -1,6 +1,6 @@
 ---
 title: "July mini harvest"
-date: 2014-06-22
+pubDatetime: 2014-06-22
 original_url: https://gorunamountain.blogspot.com/2014/06/july-mini-harvest.html
 source: GoRunaMountain Blogspot
 images: 1

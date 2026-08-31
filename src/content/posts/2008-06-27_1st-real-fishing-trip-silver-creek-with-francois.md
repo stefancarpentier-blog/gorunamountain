@@ -1,6 +1,6 @@
 ---
 title: "1st real fishing trip - Silver Creek with Francois"
-date: 2008-06-27
+pubDatetime: 2008-06-27
 original_url: https://gorunamountain.blogspot.com/2008/06/1st-real-fishing-trip-silver-creek-with.html
 source: GoRunaMountain Blogspot
 images: 0

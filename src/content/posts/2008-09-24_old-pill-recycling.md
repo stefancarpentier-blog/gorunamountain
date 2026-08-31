@@ -1,6 +1,6 @@
 ---
 title: "Old Pill recycling"
-date: 2008-09-24
+pubDatetime: 2008-09-24
 original_url: https://gorunamountain.blogspot.com/2008/09/old-pill-recycling.html
 source: GoRunaMountain Blogspot
 images: 0

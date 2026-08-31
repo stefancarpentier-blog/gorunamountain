@@ -1,6 +1,6 @@
 ---
 title: "Snow at Kirkwood"
-date: 2014-04-30
+pubDatetime: 2014-04-30
 original_url: https://gorunamountain.blogspot.com/2014/04/snow-at-kirkwood.html
 source: GoRunaMountain Blogspot
 images: 2

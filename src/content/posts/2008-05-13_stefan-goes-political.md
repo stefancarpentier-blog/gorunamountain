@@ -1,6 +1,6 @@
 ---
 title: "Stefan goes political"
-date: 2008-05-13
+pubDatetime: 2008-05-13
 original_url: https://gorunamountain.blogspot.com/2008/05/stefan-goes-political.html
 source: GoRunaMountain Blogspot
 images: 0

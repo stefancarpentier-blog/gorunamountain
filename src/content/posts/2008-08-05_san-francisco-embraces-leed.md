@@ -1,6 +1,6 @@
 ---
 title: "San Francisco embraces LEED"
-date: 2008-08-05
+pubDatetime: 2008-08-05
 original_url: https://gorunamountain.blogspot.com/2008/08/san-francisco-embraces-leed.html
 source: GoRunaMountain Blogspot
 images: 0

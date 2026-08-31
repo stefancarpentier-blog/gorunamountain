@@ -1,6 +1,6 @@
 ---
 title: "My thoughts on the election"
-date: 2008-11-06
+pubDatetime: 2008-11-06
 original_url: https://gorunamountain.blogspot.com/2008/11/my-thoughts-on-election.html
 source: GoRunaMountain Blogspot
 images: 0

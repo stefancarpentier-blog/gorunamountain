@@ -1,6 +1,6 @@
 ---
 title: "How much CO2 we can save by using recycled paper"
-date: 2008-07-21
+pubDatetime: 2008-07-21
 original_url: https://gorunamountain.blogspot.com/2008/07/how-much-co2-we-can-save-by-using.html
 source: GoRunaMountain Blogspot
 images: 0

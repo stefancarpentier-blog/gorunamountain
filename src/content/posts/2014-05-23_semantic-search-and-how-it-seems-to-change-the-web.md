@@ -1,6 +1,6 @@
 ---
 title: "Semantic Search and how it seems to change the Web"
-date: 2014-05-23
+pubDatetime: 2014-05-23
 original_url: https://gorunamountain.blogspot.com/2014/05/semantic-search-and-how-it-seems-to.html
 source: GoRunaMountain Blogspot
 images: 0

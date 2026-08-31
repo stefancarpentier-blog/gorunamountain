@@ -1,6 +1,6 @@
 ---
 title: "highly integrated ustainable design choices for the mechanical designer"
-date: 2010-10-25
+pubDatetime: 2010-10-25
 original_url: https://gorunamountain.blogspot.com/2010/10/highly-integrated-ustainable-design.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "Obama video"
-date: 2008-06-04
+pubDatetime: 2008-06-04
 original_url: https://gorunamountain.blogspot.com/2008/06/obama-video.html
 source: GoRunaMountain Blogspot
 images: 0

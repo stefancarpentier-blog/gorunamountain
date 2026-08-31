@@ -1,6 +1,6 @@
 ---
 title: "Forest Management for Global Cooling"
-date: 2008-09-16
+pubDatetime: 2008-09-16
 original_url: https://gorunamountain.blogspot.com/2008/09/forest-management-for-global-cooling.html
 source: GoRunaMountain Blogspot
 images: 0

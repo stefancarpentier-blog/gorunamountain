@@ -1,6 +1,6 @@
 ---
 title: "Electric Vehicle vs Gas Vehicle - MPG vs. co2/M"
-date: 2008-12-16
+pubDatetime: 2008-12-16
 original_url: https://gorunamountain.blogspot.com/2008/12/electric-vehicle-vs-gas-vehicle-mpg-vs.html
 source: GoRunaMountain Blogspot
 images: 0

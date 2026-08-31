@@ -1,6 +1,6 @@
 ---
 title: "84 Lumber Expands into the FSC-Certified Wood Market"
-date: 2008-08-05
+pubDatetime: 2008-08-05
 original_url: https://gorunamountain.blogspot.com/2008/08/84-lumber-expands-into-fsc-certified.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "William McDonough @ TED: The wisdom of designing Cradle to Cradle"
-date: 2008-12-04
+pubDatetime: 2008-12-04
 original_url: https://gorunamountain.blogspot.com/2008/12/william-mcdonough-ted-wisdom-of.html
 source: GoRunaMountain Blogspot
 images: 0

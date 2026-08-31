@@ -1,6 +1,6 @@
 ---
 title: "RAMROD 2.0 - The White Album"
-date: 2010-08-05
+pubDatetime: 2010-08-05
 original_url: https://gorunamountain.blogspot.com/2010/08/ramrod-20-white-album.html
 source: GoRunaMountain Blogspot
 images: 0

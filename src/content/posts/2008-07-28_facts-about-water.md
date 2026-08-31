@@ -1,6 +1,6 @@
 ---
 title: "Facts about water"
-date: 2008-07-28
+pubDatetime: 2008-07-28
 original_url: https://gorunamountain.blogspot.com/2008/07/facts-about-water.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "Black America"
-date: 2008-05-12
+pubDatetime: 2008-05-12
 original_url: https://gorunamountain.blogspot.com/2008/05/black-america.html
 source: GoRunaMountain Blogspot
 images: 0

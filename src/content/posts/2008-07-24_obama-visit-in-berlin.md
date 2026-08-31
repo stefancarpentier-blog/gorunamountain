@@ -1,6 +1,6 @@
 ---
 title: "Obama visit in Berlin"
-date: 2008-07-24
+pubDatetime: 2008-07-24
 original_url: https://gorunamountain.blogspot.com/2008/07/obama-visit-in-berlin.html
 source: GoRunaMountain Blogspot
 images: 0

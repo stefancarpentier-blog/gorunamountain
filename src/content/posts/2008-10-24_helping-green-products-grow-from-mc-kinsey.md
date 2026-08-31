@@ -1,6 +1,6 @@
 ---
 title: "Helping 'green' products grow - From Mc Kinsey"
-date: 2008-10-24
+pubDatetime: 2008-10-24
 original_url: https://gorunamountain.blogspot.com/2008/10/helping-green-products-grow.html
 source: GoRunaMountain Blogspot
 images: 0

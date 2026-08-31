@@ -1,6 +1,6 @@
 ---
 title: "New Mexico 1st few days"
-date: 2014-09-07
+pubDatetime: 2014-09-07
 original_url: https://gorunamountain.blogspot.com/2014/09/new-mexico-1st-few-days.html
 source: GoRunaMountain Blogspot
 images: 28

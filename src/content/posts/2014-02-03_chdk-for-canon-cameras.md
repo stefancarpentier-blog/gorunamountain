@@ -1,6 +1,6 @@
 ---
 title: "chdk for Canon cameras"
-date: 2014-02-03
+pubDatetime: 2014-02-03
 original_url: https://gorunamountain.blogspot.com/2014/02/chdk-for-canon-cameras.html
 source: GoRunaMountain Blogspot
 images: 1

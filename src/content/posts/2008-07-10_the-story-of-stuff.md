@@ -1,6 +1,6 @@
 ---
 title: "The Story of stuff"
-date: 2008-07-10
+pubDatetime: 2008-07-10
 original_url: https://gorunamountain.blogspot.com/2008/07/story-of-stuff.html
 source: GoRunaMountain Blogspot
 images: 0

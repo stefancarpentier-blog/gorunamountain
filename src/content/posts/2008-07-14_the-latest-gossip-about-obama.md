@@ -1,6 +1,6 @@
 ---
 title: "The latest gossip about Obama"
-date: 2008-07-14
+pubDatetime: 2008-07-14
 original_url: https://gorunamountain.blogspot.com/2008/07/latest-gossip-about-obama.html
 source: GoRunaMountain Blogspot
 images: 0

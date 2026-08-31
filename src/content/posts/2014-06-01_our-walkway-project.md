@@ -1,6 +1,6 @@
 ---
 title: "Our walkway project"
-date: 2014-06-01
+pubDatetime: 2014-06-01
 original_url: https://gorunamountain.blogspot.com/2014/05/our-walkway-project.html
 source: GoRunaMountain Blogspot
 images: 10

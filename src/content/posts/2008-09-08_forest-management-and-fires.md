@@ -1,6 +1,6 @@
 ---
 title: "Forest Management and Fires"
-date: 2008-09-08
+pubDatetime: 2008-09-08
 original_url: https://gorunamountain.blogspot.com/2008/09/forest-management-and-fires.html
 source: GoRunaMountain Blogspot
 images: 0

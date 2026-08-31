@@ -1,6 +1,6 @@
 ---
 title: "FOX attacks - shallow, low and simple minded"
-date: 2008-06-04
+pubDatetime: 2008-06-04
 original_url: https://gorunamountain.blogspot.com/2008/06/fox-attacks-shallow-low-and-simple.html
 source: GoRunaMountain Blogspot
 images: 0

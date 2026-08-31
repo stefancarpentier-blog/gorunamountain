@@ -1,6 +1,6 @@
 ---
 title: "My 1st and 2nd semester in life"
-date: 2008-09-22
+pubDatetime: 2008-09-22
 original_url: https://gorunamountain.blogspot.com/2008/09/my-1st-and-2nd-semester-in-life.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "WE - (we can solve it) - Switching to 100% clean, renewable electricity within 10 years."
-date: 2008-08-11
+pubDatetime: 2008-08-11
 original_url: https://gorunamountain.blogspot.com/2008/08/we-we-can-solve-it-switching-to-100.html
 source: GoRunaMountain Blogspot
 images: 0

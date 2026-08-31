@@ -1,6 +1,6 @@
 ---
 title: "The war in Iraq and what I read about it, what I think about it."
-date: 2008-03-25
+pubDatetime: 2008-03-25
 original_url: https://gorunamountain.blogspot.com/2008/03/war-in-iraq-and-what-i-read-about-it.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "Baguette trial#8"
-date: 2014-05-04
+pubDatetime: 2014-05-04
 original_url: https://gorunamountain.blogspot.com/2014/05/baguette-trial8.html
 source: GoRunaMountain Blogspot
 images: 2

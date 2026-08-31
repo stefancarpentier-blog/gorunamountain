@@ -1,6 +1,6 @@
 ---
 title: "Never change a winning Sieben-Gänge-Menü"
-date: 2008-08-05
+pubDatetime: 2008-08-05
 original_url: https://gorunamountain.blogspot.com/2008/08/never-change-winning-sieben-gnge-men.html
 source: GoRunaMountain Blogspot
 images: 0

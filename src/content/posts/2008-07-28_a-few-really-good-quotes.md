@@ -1,6 +1,6 @@
 ---
 title: "A few really good quotes"
-date: 2008-07-28
+pubDatetime: 2008-07-28
 original_url: https://gorunamountain.blogspot.com/2008/07/few-really-good-quotes.html
 source: GoRunaMountain Blogspot
 images: 0

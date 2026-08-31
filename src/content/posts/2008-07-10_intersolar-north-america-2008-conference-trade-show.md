@@ -1,6 +1,6 @@
 ---
 title: "Intersolar North America 2008 conference & trade show"
-date: 2008-07-10
+pubDatetime: 2008-07-10
 original_url: https://gorunamountain.blogspot.com/2008/07/intersolar-north-america-2008.html
 source: GoRunaMountain Blogspot
 images: 0

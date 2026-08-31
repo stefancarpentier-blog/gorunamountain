@@ -1,6 +1,6 @@
 ---
 title: "Obama speech to Staff"
-date: 2008-06-27
+pubDatetime: 2008-06-27
 original_url: https://gorunamountain.blogspot.com/2008/06/obama-speech-to-staff.html
 source: GoRunaMountain Blogspot
 images: 0

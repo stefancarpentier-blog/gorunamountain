@@ -1,6 +1,6 @@
 ---
 title: "Water and Energy connections in CA"
-date: 2009-08-26
+pubDatetime: 2009-08-26
 original_url: https://gorunamountain.blogspot.com/2009/08/water-and-energy-connections-in-ca.html
 source: GoRunaMountain Blogspot
 images: 0

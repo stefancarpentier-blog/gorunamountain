@@ -1,6 +1,6 @@
 ---
 title: "Solution to the financial chrisis (german)"
-date: 2009-05-15
+pubDatetime: 2009-05-15
 original_url: https://gorunamountain.blogspot.com/2009/05/solution-to-financial-chrisis-german.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "Baguette next edition"
-date: 2014-05-09
+pubDatetime: 2014-05-09
 original_url: https://gorunamountain.blogspot.com/2014/05/baguette-next-edition.html
 source: GoRunaMountain Blogspot
 images: 1

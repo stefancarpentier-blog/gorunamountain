@@ -1,6 +1,6 @@
 ---
 title: "Obama in Portland Oregon - 75000 people crowd"
-date: 2008-05-20
+pubDatetime: 2008-05-20
 original_url: https://gorunamountain.blogspot.com/2008/05/obama-in-portland-oregon-75000-people.html
 source: GoRunaMountain Blogspot
 images: 0

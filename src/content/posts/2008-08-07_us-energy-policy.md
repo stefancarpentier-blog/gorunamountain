@@ -1,6 +1,6 @@
 ---
 title: "US energy policy"
-date: 2008-08-07
+pubDatetime: 2008-08-07
 original_url: https://gorunamountain.blogspot.com/2008/08/us-energy-policy.html
 source: GoRunaMountain Blogspot
 images: 0

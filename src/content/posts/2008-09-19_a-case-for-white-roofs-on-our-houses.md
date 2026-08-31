@@ -1,6 +1,6 @@
 ---
 title: "A case for white roofs on our houses"
-date: 2008-09-19
+pubDatetime: 2008-09-19
 original_url: https://gorunamountain.blogspot.com/2008/09/case-for-white-roofs-on-our-houses.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "How much CO2 do we really emit with driving our cars"
-date: 2008-06-16
+pubDatetime: 2008-06-16
 original_url: https://gorunamountain.blogspot.com/2008/06/how-much-co2-do-we-really-emit-with.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -2,14 +2,14 @@ import { defineAstroPaperConfig } from "@/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
-    ogImage: "default-og.jpg",
+    url: "https://gorunamountain.netlify.app/",
+    title: "GoRunAMountain - Stefans thoughts and Tip Reports",
+    description: "Stefan's Minimalistic Blog. Things to remember and things to think about",
+    author: "Stefan Carpentier",
+    profile: "https://gorunamountain.wordpress.com",
+    ogImage: "meme.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Europe/Berlin",
     dir: "ltr",
   },
   posts: {

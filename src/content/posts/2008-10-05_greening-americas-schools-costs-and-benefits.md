@@ -1,6 +1,6 @@
 ---
 title: "Greening America’s Schools  costs and benefits"
-date: 2008-10-05
+pubDatetime: 2008-10-05
 original_url: https://gorunamountain.blogspot.com/2008/10/greening-americas-schools-costs-and.html
 source: GoRunaMountain Blogspot
 images: 0

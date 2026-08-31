@@ -1,6 +1,6 @@
 ---
 title: "We Can Solve It -- PR effort to raise the awareness of globas warming and the climate crisis"
-date: 2008-06-05
+pubDatetime: 2008-06-05
 original_url: https://gorunamountain.blogspot.com/2008/06/we-can-solve-it-pr-effort-to-raise.html
 source: GoRunaMountain Blogspot
 images: 0

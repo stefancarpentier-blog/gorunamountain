@@ -1,6 +1,6 @@
 ---
 title: "SF Major (Newsom) signs stringent sustainable housing legislation"
-date: 2008-08-06
+pubDatetime: 2008-08-06
 original_url: https://gorunamountain.blogspot.com/2008/08/sf-major-newsom-signs-stringent.html
 source: GoRunaMountain Blogspot
 images: 0

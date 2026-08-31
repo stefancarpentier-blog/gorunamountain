@@ -1,6 +1,6 @@
 ---
 title: "How to set up a Beehive"
-date: 2008-05-15
+pubDatetime: 2008-05-15
 original_url: https://gorunamountain.blogspot.com/2008/05/how-to-set-up-beehive.html
 source: GoRunaMountain Blogspot
 images: 0

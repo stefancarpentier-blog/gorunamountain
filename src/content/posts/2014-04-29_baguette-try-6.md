@@ -1,6 +1,6 @@
 ---
 title: "Baguette try #6"
-date: 2014-04-29
+pubDatetime: 2014-04-29
 original_url: https://gorunamountain.blogspot.com/2014/04/baguette-try-6.html
 source: GoRunaMountain Blogspot
 images: 0

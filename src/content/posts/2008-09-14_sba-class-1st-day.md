@@ -1,6 +1,6 @@
 ---
 title: "SBA Class - 1st Day"
-date: 2008-09-14
+pubDatetime: 2008-09-14
 original_url: https://gorunamountain.blogspot.com/2008/09/sba-class-1st-day.html
 source: GoRunaMountain Blogspot
 images: 0

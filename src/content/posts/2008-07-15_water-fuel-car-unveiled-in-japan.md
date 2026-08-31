@@ -1,6 +1,6 @@
 ---
 title: "Water-fuel car unveiled in Japan"
-date: 2008-07-15
+pubDatetime: 2008-07-15
 original_url: https://gorunamountain.blogspot.com/2008/07/water-fuel-car-unveiled-in-japan.html
 source: GoRunaMountain Blogspot
 images: 0

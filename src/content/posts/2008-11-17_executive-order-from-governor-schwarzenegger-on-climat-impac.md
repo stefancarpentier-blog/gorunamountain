@@ -1,6 +1,6 @@
 ---
 title: "Executive order from Governor Schwarzenegger on Climat Impacts"
-date: 2008-11-17
+pubDatetime: 2008-11-17
 original_url: https://gorunamountain.blogspot.com/2008/11/executive-order-from-governor.html
 source: GoRunaMountain Blogspot
 images: 0

@@ -1,6 +1,6 @@
 ---
 title: "Clean Coal...Really?"
-date: 2008-12-09
+pubDatetime: 2008-12-09
 original_url: https://gorunamountain.blogspot.com/2008/12/clean-coalreally.html
 source: GoRunaMountain Blogspot
 images: 0
