@@ -1,0 +1,26 @@
+---
+title: "confined - quarantined - in a place that is so close to our happy place"
+pubDatetime: 2020-05-06
+categories: 
+  - "thoughts"
+  - "timeline"
+  - "travel"
+---
+
+We are finally where we want to be, or at least close to it. Casentino finally has us back. We are so so grateful to be here. Times are changing and life seems pretty difficult right now. Not only for us, but I really only see our life right now, with very little exception. Monday we took the SIXT rental car with Italian license plates and were sent on our way by Doris and Andy at 8.45. The car pretty loaded with our two suitcases and two bags, then a lot of food for the upcoming quarantine. A mid-size folder with a lot of documents. We tried to make sure we have all the documents needed to convince the Italian border patrol officer to let us enter the country. Let the occasional police check be happy with our reasoning to enter the country. It is not for fun or Beach. It is to buy our house. So we were prepared and ready, fill in a short paper on the Austrian border to state we are not stopping for any reason and just driving through. OK, 1 1/2 hours later I expected to see something like this but tougher and more stringent to cross into Italy. The country hit the hardest in the EU by CORVID-19. So we are getting to the top of the Brenner pass, signs start reading in the Italian language, and we come to realize there are no border checks. None what so ever. There were a lot of trucks but only the occasional car. We felt like we were the only ones. Weird and not a place I like to be. But nothing happened, no-one looked at us, checked us, checked any of our papers, no-one checked our temperature as we enter Italy. Crazy in my opinion. But we knew what we wanted to do and where to go, so off we went. Italy here we come. We went into one glass station along the whole route of about 900km. With pee breaks and one local shopping trip, we arrived at our destination in 11 1/2 hours.
+
+We could not believe it. We actually made it. Our rented house was just like we remembered. All we had to do was to register ourselves with the local municipality to start out 14 days of quarantine. That was done via email and worked like a charm. Nationality, health insurance, address of your stay, start off your quarantine and we were off to the Quarantine races.
+
+I was exhausted. After a full day of driving and the nerve-wracking border crossing that was an anti-climax as you can have it, I managed to squeeze a beer in and dropped to bed hard after Mumu’s cooked dinner. I slept long and good, some breakfast and looking around, only to go for a nap in the early afternoon. I was still exhausted. We explored the area a little that afternoon, trying to be careful not to meet anyone on our route. The house is literally in the forest and among fields. So we had an easy time avoiding the company. It is so beautiful here. Pasta dinner. and more deep sleep.
+
+We managed to have a local love cat right on our door and it seemed she was in need of some attention. So nice. I am getting up now earlier and try to go for a walk in the early morning. The light is so nice and it opens the day really well for me. So much nice sun today and we went on another hike together in the afternoon. There we finally saw maybe 10 locals sitting on their bench chatting the local chat. All with masks and all happy to see us wearing masks too. There was a lot more than 2m distance between us. It seemed these people are now officially scared. Scared of anything anyone new and unknown. Who can blame them!!?? We will try and make our way to our hopeful future home tomorrow. By foot and through hiking trails only. If we encounter any number of people, we will turn around. It is not our intention to infect anyone. The woods are empty.
+
+In the meantime, the money finally arrived in the German bank account. What a relief!!! I think this was the last hurdle of any size I can see between us and the house. But who knows what comes tomorrow, what comes next.
+
+I did learn to plan for stuff going wrong in all this time. Have a plan, then at least a plan B. If the result is existential, think a plan C through all the way and be ready to go execute this one. I am a pretty positive thinker, this whole process drove me to the limit of what I can do. Simply put, if it is not important and urgent, I would not even think about it for the last 5 months. Not even close. Calling friends, fixing the car, selling the car on time, bringing the right clothes for the 3 months it will take to get other ones, none of this qualified as important. For the last 5 months, existential problems qualified as important to receive my attention. Will we be health insured, will we have the money available in the geography we need it, …… I am tired of it now. I will not do this again. This was too much and I want it too finally stop and I can switch to cruising mode.
+
+These 2 weeks quarantine will serve me well for a recharge and a reset. I can just walk the woods, read something, lie in the sun, ….. and not think of ANYTHING existentially important. What a change what a relief. I want to spend some time with friends, riding, hiking, laughing, drinking, and just having fun.
+
+We are so close, still two weeks away from signing.
+
+# Let it happen.

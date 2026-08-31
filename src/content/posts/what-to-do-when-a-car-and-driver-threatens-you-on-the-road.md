@@ -1,0 +1,14 @@
+---
+title: "What to do when a car and driver threatens you on the road"
+pubDatetime: 2018-06-19
+categories: 
+  - "sport"
+  - "thoughts"
+  - "timeline"
+---
+
+I had a pretty traumatic experience yesterday and I am still in the process of digesting it. I am writing this, in part to work through it. I am still nervous, a little scared and not sure what to do next to try and avoid situations like this. Here it goes.
+
+I am riding my bike to Yoga on Monday, June 18th. This SUV passes me and another cyclist pretty close on Julian Street, at the underpass of Caltrain. This is always an area that I am trying to avoid as it leaves no escape for cyclists when cars and drivers don't leave enough room to the side. Both of us (cyclists) seem pretty annoyed by this event and have a brief visual contact. We keep riding to the next intersection (Alameda) and see the same SUV there as well. I pull onto the SUVs driver side and knock on his window to get the drivers attention, as he is seemingly trying to avoid looking at me. I tell him that his recent passing of me was really close and not safe, through the closed driver side window. I get a middle finger pointed in my direction as a response. The fellow cyclist says something as well in my direction, but I don't recall what. The light turns green and the SUV takes off making a left turn. I stay behind him, as not to get caught in anything. The SUV now dulls really fast to the right side of the road as to block my passing on his right side. I am pulling out my cellphone and take a picture of his license plate, then proceed to pass his SUV slowly on the left side as he has to wait at the red light. Profanities are being sent my way by the driver. At this point, the lights turn green and I am opting to proceed on the sidewalk as not to get into physical danger by the erratic driving style. More profanities coming my way, not better or worse ones, just repeats of the same. But the driver is now asking me to stop so we can have a fight. I decline and state I have never fought anyone in my life, he will not be the 1st. More threatening statements are coming my way; "I have a full tank of gas, I will follow you to your home, I will watch out for you every day from now on along this route and this time, I will hunt you down, you better watch out from now on ...... My riding has to be careful as not to be in the front of him or giving him any chance to pinch off my ride between road and curb as I am weaving from the left side of the road's sidewalk to the right side's sidewalk. My goal now is to get to a more public place, get inside a building with more people and hopefully discourage him from following me any further. After a few left-right turns I finally arrive at the entry of Nu-Life Yoga, I enter and that was the last I see of him.........
+
+## **so far.**

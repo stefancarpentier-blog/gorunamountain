@@ -1,0 +1,29 @@
+---
+title: "Taormina and Milazzo &#8212; The hilly kind of Sicily"
+pubDatetime: 2019-09-30
+categories: 
+  - "timeline"
+  - "travel"
+---
+
+Google Pictures [LINK](https://photos.app.goo.gl/FEedeJGF1MaJtu659)
+
+![Taormina](/photos/taormina.png)
+
+So we are driving up from Syracuse to Taormina, not really an eventful drive. As we get closer to Taormina, I look out and see this amazing scene of houses perched upon a hill, like glued on there with Superglue. I told Muriel, I will need to ride up there. This is worth a little drive to get some fun in, on the bike. And we ended up, right in there, sleeping there every night. It is a very touristy place with Tour-Busses coming in by the loads, people streaming in and out, in places it is hard to see your feet. The water is nice, the roads are steep, the landscape is beautiful, the roads are empty. What can a guy do but RIDE and swim? Oh, yes. Then there was the visit of Etna in the midst of the Italian Alpine Club.
+
+Then there was the visit of Etna in the midst of an Italian Alpine club national meet-up. Etna, somehow I never really saw this Vulcano as a “real” Vulcano. I don’t know why. But BOY was I wrong. It’s real, it’s high and it’s beautiful too. At a hight of ~3300m and located really close to the see, the elevation shows, easily. It erupted not too long ago, and you see the lava flow in a  very impressive way. It swallowed hots almost completely, most trees are burnt in its path, some magically survived these temperatures of molten rock. In many areas you see the lava rock starting to break down into sand and dust already, and new vegetation takes root. It’s so destructive and it’s so amazing.
+
+ 
+
+\
+
+To get to the north coast of Sicily (Sicily really only has three coastal sides, North, South and East coast) we decided to drive through the center and over the hills. Milazzo is a mid-sized town, we did not expect much of it. The way there was really scenic and rewarding. The views and some of the roads are simply breathtaking. The little town of Novara di Sicilia (mind the double “LL”) is really adorable. Because of the amazing road and scenery, the number of motorcycles went through the roof, as did the number risky maneuvers I had to experience on this road. I just took my time and tried not to kill anyone in the process. Milazzo is a cute town with a lot of character. Some Beach town stuff mixed in with style and fashion love, then some fashion for basic and great food and I met a few cyclists there too. The “Pool of Venus” at the northern end of the peninsula was a treat to get to and swim in. Watching sunset out there was a real treat. Mumu staled at the place as she felt sick that day. That evening we had to take ONE of our most favorite Pizza of the trip. Thin crust, great-tasting ingredients and balanced out to make for an amazing pizza. We went there a total of 3 times in only 2 days. It was that bad. The weighers knew us by the second visit and we got all ready a free 1/2 liter red with our already super cheap meal. There was no way to reject it or even pay for it.
+
+\
+
+The drive to Cefalu was probably the one with the longest time I spent in tunnels so far. At least that is what it felt like. One after the other and there was no end to it. Cefalu is practically a no car town. We had to find out the hard way by being stuck in some TINY streets and having to turn around (after we ignored enough of the “No Cars here” signs). A little town of skinny streets and black cobblestone, lots of tourists and even more shops with trinkets of all kind. If you stay away from that area, it’s a really pleasant town. Right on the 1st day, I rode up into the hills with my little Brompton. I regret I did not get the extra 2 gears for it when I climb hills like these. It just takes a lot more out of you if you face a hill that is just a little steeper than your gear ratio lets you ride with comfort. Tough it out then. As soon as you leave behind the coast, it is mountainous terrain and climate. Great trees and rock formations, then cloud to mix it all up. And there were almost no cars. What a treat. The next day Mumu and I made it up there with the car, hiked a little in this great scenery, then followed a recommendation from our host to a town and known good restaurant. A “Michelin” mention on the door and a down to earth interior as well as staff. Just what I like. The food was good to great, and the price was very reasonable. The bar we went to before was so great, we went back the next day and got the same excellent treatment. We might just go there again tomorrow…..
+
+ 
+
+**Our HOME** All this is happening with a background of troubles. Since 3 months I am trying to set up a bank account connection between Germany and the US. I am still not there and I am almost running out of patience. So much paperwork and bureaucracy mixed with incompetence and sometimes “Don’t care” attitude, it drives me up the wall. I now have someone in the US bank that is competent and motivated. She might be the reason why this wiring of money might end up working sometimes. I was VERY disappointed with my German bank and the way it was handled there. I was connected to a branch manager as my personal contact person and I thought this would be a great thing. SO far he has only done something useful today. One time. But some of the data I got from his still was incorrect. From other members of this bank, I get zero response via email, and “not my problem” type answers when on the phone. What in the world is going on with Germany, where accuracy and proper etiquette was important and valued some time ago. The buying process of the home started and was and is also sprinkled with incompetence, but some of the events I trace back to plain fear of being cheated out of your money. It takes a lot of patience to do anything here in Italy.

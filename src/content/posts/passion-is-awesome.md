@@ -1,0 +1,27 @@
+---
+title: "Passion is awesome"
+pubDatetime: 2020-06-13
+categories: 
+  - "italy"
+  - "timeline"
+---
+
+Google Photos [LINK](https://photos.app.goo.gl/dFkzuHEqGSYJF8mE6)
+
+It is now 3 weeks since we are allowed to interact with the people around us now. Italians that is now. In case this is news to you; there is a lot of passion in Italian culture. Passion for life, for food, for friends, for a sport that you watch, for the sport that you do, for the color you pick for your new sweater, for the type of car you choose, for the wine you drink, for for for … for most anything these beautiful people see and touch.
+
+I found it hard to stay in Quarantine with Muriel. I think anyone understands 14 days stuck without much of any interaction with others is hard. I love my Main Squeeze and then there is still the need to interact with others. I just remember this scenario. We stay for 14 days in this house, we get food bought and delivered by our awesome Landlords Stefano and Patricia, with their kids Marco and Lisa and their friends Medi and Bateman. I could not be anything else but overwhelmed by the kindness but more the thirst for life of these people. We barely met and they started giving and talking and including us. It was an instant family, really. The absolutely stunning scenery we are staying in seemed to grow a little stale on us, with only the two of us around each other. It was still amazing and great, but the secret sauce was somehow missing. The question arose in me, why did we actually choose Italy, why Tuscany, why Casentino Valley? What the hell are we doing here and why did we even get started with all this? These questions piled up in a hurry during this quiet time of Quarantine. As soon as our hosts arrived in their house, right next to ours, these questions received answers quickly. The secret sauce, what we like so much about Italy and the area of the Casentino Valley, the “sauce” is simply the people and their passion. A passion for life a spark that is infectious. As soon as they joined us, close to our house, these questions evaporated into two smiles and a little lift of the heart. THANK YOU.
+
+\
+
+We are now 2+ weeks into this ownership. We are so thrilled and we are working hard to get the place ready for the construction work this Monday. The house was almost completely full of old furniture and crap, the basement rooms were filled with Farming tools and stuff that I still cannot believe one man can collect in a lifetime. Selecting anything that would be useful for us, neat to keep, and finding ways to get rid of the rest was the task for 2 weeks. With the help of Medhi, Marco, and Silvio for the house, Francesco for the Grass we managed to make this place almost livable during this time. Only to now let in contractors to demolish walls, tear down tiles, and re-install all the things we actually want and need, bringing the heating, water, and electrical systems into the 21st century. Our expectation is that in 3 1/2 months, this will all be over and we can move in. During this time we also managed to move the furniture we brought over from California into the 2nd house. The movers were an excellent example of what I start to expect from working people in Casentino. Hard-working, dedicated, and personable. Let’s not forget full of passion. While it was a hard day of work to bring all this stuff into the house, there was always room for fun, admiration and laughs and good times. Our 9m long bench posed a real challenge to the team and equipment, but a different and much bigger truck was brought in to move just one big big beam.
+
+Now there are problems to solve how to get certain machinery for yard work going and keep them going, cutting many of the neglected trees into shape, cutting down some roses, and planting our 1st Fig tree on the property. It is now shaping up to look like a property and a house that is livable. What a good set of issues to resolve. I love it.
+
+Yesterday I managed to finally get the newest member of the team to the house. The 31-year-old Fiat Panda 4x4. Like everything here in Italy, buying it and getting it registered under my name and getting it insured was a little more work-intensive than I expected. But with the right team and dedication, we got that one done as well. 1st car I own in Italy seems to be an Italian Icon.
+
+We managed to get a trip to Florence in, getting Mumu’s suspicion of a skin problem wiped off the table by a Dermatologist and the translating help and recommendation from our hosts. So much love and care are around us. Of course, it works out. How can it not work out? But a trip to the local IKEA made a few more decisions clear and allows us to get the construction started. The contractor/builder has a LATE penalty clause. I insisted on it. He was not worried, neither the Geometra. So far he never had to pay a late penalty, he is not late. I really hope we don’t break his string during the next 3 1/2 months.
+
+We celebrated Mumu's Birthday, which is on the same day as the one of Particia, our host. More great great displays of how to live your life and friendship. SO great to be part of this. I also got introduced to the Casentino MTB crew. There are a lot of bikers out there and the scenery is pretty amazing, the riding is challenging in a technical way as well as just sheer physical ability. ==> It's hard. and I managed to hold on most of the way of the 45km, 1650m climbing route up to Monte Falco and back. Thanks, Silvio, Andrea, and Stefano for riding with me and showing off your trails.
+
+\

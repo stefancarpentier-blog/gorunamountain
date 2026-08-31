@@ -7,7 +7,7 @@
       "type": "string"
     },
     "pubDatetime": {
-      "default": "2026-08-31T14:12:31.797Z",
+      "default": "2026-08-31T18:30:32.112Z",
       "type": "string",
       "format": "date-time"
     },
