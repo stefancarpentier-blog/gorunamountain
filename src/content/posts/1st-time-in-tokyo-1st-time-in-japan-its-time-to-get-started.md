@@ -1,9 +1,13 @@
 ---
-title: "1st time in Tokyo, 1st time in Japan - It's time to get started"
-pubDatetime: 2019-04-23
-categories: 
-  - "timeline"
-  - "travel"
+title: 1st-time-in-tokyo-1st-time-in-japan-its-time-to-get-started
+pubDatetime: 2026-08-31T12:00:00Z
+categories:
+  - timeline
+  - travel
+description: ""
+draft: true
+tags:
+  - general
 ---
 
 Google Photos [LINK](https://photos.app.goo.gl/26HraaUiRWsq1SLW6)

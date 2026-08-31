@@ -1,18 +1,21 @@
 ---
-title: "Italians ... Let me tell you, the ones I met are amasing."
-pubDatetime: 2026-02-21
-categories: 
-  - "italy"
-  - "thoughts"
-  - "timeline"
-  - "travel"
-tags: 
-  - "europe"
-  - "food"
-  - "writing"
+title: italians-let-me-tell-you-the-ones-i-met-are-amasing
+pubDatetime: 2026-08-31T12:00:00Z
+categories:
+  - italy
+  - thoughts
+  - timeline
+  - travel
+tags:
+  - europe
+  - food
+  - writing
+  - general
+description: ""
+draft: true
 ---
 
-> It is now almost SIX years
+> It is now almost six years
 
 since we moved to Italy. I was always pretty sure we would have a good time here, with the weather, with the food, with the people. Somehow, I did not really have any doubt; I was never worried. But for people who know me, that might not be such a big surprise. I am not necessarily a worrier; I seem to find a way to make things work, find a way to enjoy what I got myself into somehow. But THIS! I have to say this is not what I expected. After 2 years, we had encountered 3 people who were unfriendly or downright rude to us/me. After 3 years, the number was still 3. Not 3 per day, what you can achieve in Germany or maybe even France. No, 3 people in 3 years being **NOT NICE.**
 
