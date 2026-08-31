@@ -12,7 +12,7 @@ tags:
   - "writing"
 ---
 
-> It is now almost six years
+> It is now almost SIX years
 
 since we moved to Italy. I was always pretty sure we would have a good time here, with the weather, with the food, with the people. Somehow, I did not really have any doubt; I was never worried. But for people who know me, that might not be such a big surprise. I am not necessarily a worrier; I seem to find a way to make things work, find a way to enjoy what I got myself into somehow. But THIS! I have to say this is not what I expected. After 2 years, we had encountered 3 people who were unfriendly or downright rude to us/me. After 3 years, the number was still 3. Not 3 per day, what you can achieve in Germany or maybe even France. No, 3 people in 3 years being **NOT NICE.**
 
