@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "author": {
+      "default": "Sat Naing",
+      "type": "string"
+    },
+    "pubDatetime": {
+      "default": "2026-08-31T13:16:02.480Z",
+      "type": "string",
+      "format": "date-time"
+    },
+    "modDatetime": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date-time"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "draft": {
+      "type": "boolean"
+    },
+    "tags": {
+      "default": [
+        "others"
+      ],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ogImage": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "description": {
+      "default": "",
+      "type": "string"
+    },
+    "canonicalURL": {
+      "type": "string"
+    },
+    "hideEditPost": {
+      "type": "boolean"
+    },
+    "timezone": {
+      "type": "string"
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "title"
+  ]
+}
