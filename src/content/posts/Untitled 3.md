@@ -14,20 +14,16 @@ AUG 14, 2026
 
 Getting the team together.
 
-Tom arrived last night, after getting some stuff organized we walked to town and to my favorite patisserie, in the covered market. With bags of good pastry we made our way across the street to get Tom caffeinated and one last coffee for me before the your starts. Getting the bike for Tom at decathlon was easy and I could treat him the the best coffee in town, Sweet pea. We went to the hotel and loaded or bikes, for the trial ride we needed to be sure all fits together. July, Moris, Rosa and Fabian where about to arrive at the planned meetup point for drinks and food. Watching the sued, Atlantic ocean and cheating away was good to kick things of. Only Kim was missing, but he was still on his way from California. 
+Tom arrived last night, after getting some stuff organized we walked to town and to my favorite patisserie, in the covered market. With bags of good pastry we made our way across the street to get Tom caffeinated and one last coffee for me before the Tour starts. Getting the bike for Tom at Decathlon was easy and I could treat him after to the best coffee in town, Sweet Pea. We went back to the hotel and loaded or bikes, for the trial ride we needed to be sure all fits together. July, Moris, Rosa and Fabian where about to arrive at the planned meetup point for drinks and food. Watching the sued, Atlantic ocean and cheating away was good to kick things of. Only Kim was missing, but he was still on his way from California. 
 
-Picture beach beer
+Picture Beach beer
 
   
-  
-
 ---
 
   
 
 ## DAY 1 
-
-  
 
 AUG 15, 2026
 
@@ -37,9 +33,7 @@ Fabian & Rosa made a pretty fitting writeup about the day.
 
 To Saint-Jean-Pied-de-Port
 
-AUG 15, 2026.
-
-Day 1 was very much a day 1. 
+Day 1 was very much a *Day* 1. 
 
 There were many ups and downs, pun intended. For the sake of being concise, here's a list of the main events:
 
@@ -59,15 +53,13 @@ There were many ups and downs, pun intended. For the sake of being concise, here
 
 8. Village festival (that apparently goes until 7am...)
 
-9.~80km
+9. ~80km
 
 Good night
 
 Stay tuned if we slept through the party noises...
 
----
-
-  
+----
 
 ## DAY 2
 
