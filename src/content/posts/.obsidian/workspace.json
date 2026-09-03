@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/BLOG-TEMPLATE.md",
+                "file": "CAPS 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BLOG-TEMPLATE"
+              "title": "CAPS 2026"
             }
           }
         ],
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/BLOG-TEMPLATE.md"
+                "file": "CAPS 2026.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -218,8 +218,12 @@
   },
   "active": "e1faa51312d949ea",
   "lastOpenFiles": [
-    "REALLY THAT EASY.md",
+    "IMG_20260813_223652_011.jpg",
+    "IMG_20260813_132236_963.jpg",
+    "IMG_20260813_121811_533.jpg",
+    "IMG_20260813_104753_446.jpg",
     "Templates/BLOG-TEMPLATE.md",
+    "REALLY THAT EASY.md",
     "1st-time-in-tokyo-1st-time-in-japan-its-time-to-get-started.md",
     "CAPS 2026.md",
     "italians-let-me-tell-you-the-ones-i-met-are-amasing.md",
