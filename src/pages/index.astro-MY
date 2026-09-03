@@ -1,0 +1,25 @@
+---
+import { SITE, SOCIALS } from "@config";
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import LinkButton from "@components/LinkButton.astro"; // <-- ADD THIS LINE
+import LinkButton from "../components/LinkButton.astro"; // (Or relative path if AstroPaper uses it)
+---
+<section id="hero">
+  <h1>Go Run A Mountain - Stefan Carpentier</h1>
+  
+  <p>
+   There is much fun to be had, smile, go out and get some.
+  </p>
+  
+  <p>
+    Check out the latest
+    <LinkButton href="/posts/">
+      Blog Posts
+    </LinkButton> or subscribe to the
+    <LinkButton href="/rss.xml">
+      RSS Feed
+    </LinkButton>.
+  </p>
+</section>
