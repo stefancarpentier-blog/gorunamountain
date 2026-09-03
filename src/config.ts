@@ -39,3 +39,16 @@ const config: ResolvedAstroPaperConfig = {
 };
 
 export default config;
+
+export const SITE = {
+  website: "https://yourdomain.com/",
+  author: "Stefan", // <-- Change author name
+  profile: "https://yourdomain.com/",
+  desc: "A minimal, responsive, accessible and SEO-friendly Astro blog theme.", // <-- Change site meta description
+  title: "AstroPaper", // <-- Change your blog title
+  ogImage: "astropaper-og.jpg",
+  lightAndDarkMode: true,
+  postPerIndex: 4,
+  postPerPage: 3,
+  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+};
