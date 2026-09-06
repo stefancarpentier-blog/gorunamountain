@@ -1,8 +1,7 @@
-<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async" style="max-width: 100%; height: auto;" />
-<figure style="display: inline-block; vertical-align: top; width: 48%; margin: 1% 0; text-align: center;">
+<div style="display: inline-block; vertical-align: top; width: 100%; max-width: 48%; margin: 8px 1%; text-align: center;">
   <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} loading="lazy" decoding="async" style="width: 100%; height: auto; border-radius: 4px;" />
   {{ with .Text }}
-    <figcaption style="font-size: 0.85em; opacity: 0.8; margin-top: 6px; padding: 0 4px;">{{ . }}</figcaption>
+    <span style="display: block; font-size: 0.85em; opacity: 0.8; margin-top: 6px; text-align: center;">{{ . }}</span>
   {{ end }}
-</figure>
+</div>
 
