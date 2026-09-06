@@ -1,2 +1,8 @@
 <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async" style="max-width: 100%; height: auto;" />
+<figure style="display: inline-block; margin: 10px; max-width: 100%; text-align: center;">
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} loading="lazy" decoding="async" style="max-width: 100%; height: auto;" />
+  {{ with .Text }}
+    <figcaption style="font-size: 0.85em; color: #666; margin-top: 5px;">{{ . }}</figcaption>
+  {{ end }}
+</figure>
 
