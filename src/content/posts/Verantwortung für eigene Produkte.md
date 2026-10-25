@@ -1,3 +1,10 @@
+---
+title: "Verantwortung für eigene Produkte"
+pubDatetime: 2026-10-25
+categories: 
+  - "thoughts"
+  - "timeline"
+---
 # Verantwortung für eigene Produkte. 
 ### Wo ist sie gebliebenen?
 
